@@ -25,8 +25,6 @@ Você pode visualizar o projeto funcionando neste link:
 
 O principal objetivo deste projeto foi praticar e reforçar habilidades no desenvolvimento front-end, criando uma página completa, bem estruturada e com um design agradável, sem o uso de JavaScript.
 
----
-
 ## 👤 Autor
 
 **Matheus Santos**
