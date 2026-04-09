@@ -24,3 +24,19 @@ Você pode visualizar o projeto funcionando neste link:
 ## 🎯 Objetivo
 
 O principal objetivo deste projeto foi praticar e reforçar habilidades no desenvolvimento front-end, criando uma página completa, bem estruturada e com um design agradável, sem o uso de JavaScript.
+
+---
+
+## 👤 Autor
+
+**Matheus Santos**
+
+* LinkedIn: https://www.linkedin.com/in/matheusdevsantos/
+* GitHub: https://github.com/MatheusDevlog
+* Email: [contato.matheusdevlog@gmail.com](mailto:contato.matheusdevlog@gmail.com)
+
+---
+
+## 📚 Observação
+
+Este projeto foi desenvolvido para fins de estudo e portfólio.
